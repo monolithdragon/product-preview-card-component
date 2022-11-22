@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop ScreenShot](./screenshots/Frontend Mentor - Product preview card component - desktop.png)
-![Mobile ScreenShot](./screenshots/Frontend Mentor - Product preview card component - mobile.png)
+![Desktop ScreenShot](./screenshots/desktop.png)
+![Mobile ScreenShot](./screenshots/mobile.png)
 
 ## My process
 
